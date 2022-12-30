@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Miniproject-frontend</string>
+    <string name="form_From">From</string>
+    <string name="form_To">To</string>
+    <string name="form_Value">Value</string>
+    <string name="form_Result">Value</string>
+</resources>
