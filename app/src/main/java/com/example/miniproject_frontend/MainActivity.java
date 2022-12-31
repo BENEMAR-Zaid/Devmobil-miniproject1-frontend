@@ -1,3 +1,9 @@
+/* Group du travaille :
+ *
+ * BENAMAR Zaid   (MBD)
+ * AARAB Yasmine  (MBD)
+ *
+ * */
 package com.example.miniproject_frontend;
 
 import androidx.appcompat.app.AppCompatActivity;
